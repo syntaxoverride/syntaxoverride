@@ -1,24 +1,43 @@
 # Hello, I'm Lewis (aka syntax_override)
-## 🎓 Consultant and Educator in Cyber Security and Data Analytics
-As a dedicated Cybersecurity Professor, I specialize in teaching the principles and techniques of offensive security (penetration testing, exploit development) and defensive security (threat detection, incident response). My mission is to equip students with practical skills to secure networks and systems while understanding the mindset of attackers.
 
-- 🛡️ Leading courses in Cybersecurity Defense and Ethical Hacking
-- 🧩 Expert in penetration testing, digital forensics, and network monitoring
-- 🔍 Integrating real-world scenarios for hands-on problem-solving
-- 📝 Developing labs and curricula that connect theory to application
+### Cybersecurity Educator | CTF Coach | Competition Enthusiast 
 
-## 💼 Cyber Risk Quantification Consultant
-With a background in risk management, I provide consultancy services focused on **Cyber Risk Quantification**. I help organizations identify and quantify cyber risks, enabling them to make informed strategic decisions.
+As a dedicated Cybersecurity Professor at TAMU-CC, my passion lies in bridging the gap between theoretical knowledge and practical application in cybersecurity. I specialize in developing hands-on learning experiences and fostering the skills essential for success in competitive cyber environments and real-world security roles.
 
-- 🔒 Specializing in **Cyber Risk Identification** and **Quantification**
-- 🛡️ Assisting organizations to understand their cyber risk exposure
-- 🧮 Developing models for better risk management and mitigation strategies
-- 🤝 Working alongside C-level executives to fortify their cyber risk posture
-
-## Connect with Me
-Let's explore the synergy between data analytics education and risk management. Connect with me to discuss collaboration, consultancy, or speaking opportunities.
-
-- [LinkedIn](https://www.linkedin.com/in/lewisheuermann/)
 ---
 
-Feel free to check my repositories below for resources on data analytics and risk management projects, course materials, and insightful discussions on the latest in cyber risk quantification.
+### **Teaching & Lab Development at TAMU-CC**
+
+I focus on equipping students with practical offensive and defensive security skills through immersive, hands-on labs and real-world scenarios. My work at TAMU-CC includes:
+
+* **Leading courses** in Cybersecurity Defense, Ethical Hacking, Digital Forensics, and Network Monitoring.
+* **Designing and implementing in-class labs** that directly connect theory to practical application, covering topics like:
+    * Penetration testing and exploit development
+    * Digital forensics and evidence analysis
+    * Network security and packet analysis
+    * IoT security (Arduino Opta, Raspberry Pi Pico)
+* **Developing curriculum** that integrates competitive cyber techniques and best practices.
+
+---
+
+### **CTF Coaching & Cyber Competition Engagement**
+
+My commitment extends beyond the classroom to actively coaching and mentoring aspiring cybersecurity professionals for competitive events. I believe CTFs are a cornerstone for developing critical thinking and problem-solving skills, and I am enthusiastic about contributing to the US Cyber Games. My involvement includes:
+
+* **Coaching and preparing teams** for various Capture The Flag (CTF) challenges and cyber competitions.
+* **Developing custom CTF challenges** and training modules across diverse domains (e.g., forensics, packet analysis, web, binary exploitation).
+* **Mentoring students** on competition strategies, teamwork, and effective vulnerability research.
+* **Actively promoting** participation in and the value of competitive cyber within academic settings.
+
+---
+
+### **Connect with Me & Explore My Work**
+
+Let's connect to discuss cybersecurity education, competitive cyber, or collaborative projects.
+
+* [**LinkedIn**](https://www.linkedin.com/in/lewisheuermann/)
+
+Feel free to check my repositories below for:
+* **In-Class Lab Materials:** Programs and resources developed for my TAMU-CC courses.
+* **Cyber Competition Resources:** Training materials and frameworks I've created or utilized.
+* **Personal Projects:** Showcasing specific technical skills in areas like IoT, forensics, or network analysis.
