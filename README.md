@@ -1,6 +1,6 @@
 # Hello, I'm Lewis (aka syntax_override)
 
-### 🚀 Cybersecurity Educator | CTF Coach | Competition Enthusiast 🚀
+### Cybersecurity Educator | CTF Coach | Researcher focused on Zero Trust in ICS/OT Environments
 
 As a dedicated Cybersecurity Professor at TAMU-CC, my passion lies in bridging the gap between theoretical knowledge and practical application in cybersecurity. I specialize in developing hands-on learning experiences and fostering the skills essential for success in competitive cyber environments and real-world security roles.
 
