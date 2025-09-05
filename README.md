@@ -1,4 +1,4 @@
-# Hello, I'm Lewis (aka syntax_override)
+# whoami: Lewis (aka syntax_override)
 
 ### Cybersecurity Educator | CTF Coach | Researcher focused on Zero Trust in ICS/OT Environments
 
